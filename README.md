@@ -24,12 +24,12 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot-desktop.png)
-![](./screenshot-mobile.png)
+![](./screenshot-mobile.jpeg)
 
 ### Links
 
 - Solution URL: https://github.com/RSmith484/huddle-landing-page.git
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://rsmith484.github.io/huddle-landing-page/
 
 ## My process
 
