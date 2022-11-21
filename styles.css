@@ -51,9 +51,6 @@ header {
 }
 
 .right-column {
-    /* display: flex;
-    flex-direction: column;
-    text-align: flex-start; */
     margin: 40px;
 }
 
